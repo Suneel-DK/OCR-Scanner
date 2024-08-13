@@ -1,0 +1,7 @@
+Text Recognition App
+Welcome to the Text Recognition App! This Flutter application is designed to extract and display text in real-time using your device's camera or images from your gallery. The primary focus of this project was to demonstrate the core functionality of text recognition, with plans to enhance the user interface in the future.
+
+Features
+Real-Time Text Recognition: The app automatically opens a mini camera when launched, capturing and displaying any text it detects in real-time.
+Gallery Image Text Recognition: You can also upload images from your gallery, and the app will extract and display the text.
+User-Friendly Interface: While the current UI is minimal, it serves the purpose of showcasing the app's capabilities. Future updates will include a more polished and intuitive user interface.
